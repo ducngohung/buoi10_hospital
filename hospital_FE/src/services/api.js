@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Xử lý API URL
-export const API_BASE_URL = 'http://localhost:8080/api';
+export const API_BASE_URL = 'http://146.190.223.192:8080/api';
 // export const API_BASE_URL = 'https://api-hospital.cybersoft.edu.vn/api';
 
 // Xử lý Media URL - loại bỏ /api ở cuối
