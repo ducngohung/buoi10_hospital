@@ -1,6 +1,6 @@
 name: Demo workflow
 on:
-  workflow_dispatch:
+  workflow_dispatch
 jobs:
   khoi_dong:
     runs-on: ubuntu-latest
